@@ -1,0 +1,6 @@
+[submodule "timer"]
+	path = timer
+	url = git@github.com:JohnMahowald/timer.git
+[submodule "homebrew-timer"]
+	path = homebrew-timer
+	url = git@github.com:JohnMahowald/homebrew-timer.git
